@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhdqwalls.com%2Fwallpapers%2Fthink-twice-code-once.jpg&f=1&nofb=1" alt="Think twice, code once!">
 
 <!--
 **vidacalura/vidacalura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
