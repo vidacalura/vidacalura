@@ -27,6 +27,6 @@
  
 </div>
   
-<br> <br> 
+<br> 
   
 <h1 align="center"> <em> “Think twice, code once.” </em> </h1>
