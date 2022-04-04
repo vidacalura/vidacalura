@@ -17,8 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50px"/>
 </div>
-  
-##
+ 
+<p> </p>
   
 <!-- Redes sociais -->
 <div align="center"> 
