@@ -1,7 +1,3 @@
-![](https://komarev.com/ghpvc/?username=vidacalura)
-
-<br>
-
 <!-- Div Most Used Languages -->
 <div align="center">
   <a href="https://portfolio-vidacalura.web.app/" target="_blank">
