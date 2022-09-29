@@ -27,4 +27,4 @@
   
 <br> 
   
-<h1 align="center"> <em> “Think twice, code once.” </em> </h1>
+<h3 align="center"> <em> “Think twice, code once.” </em> </h3>
