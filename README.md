@@ -1,10 +1,10 @@
-<!-- Div Most Used Languages
+<!-- Div Most Used Languages -->
 <div align="center">
   <a href="" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidacalura&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<br> -->
+<br>
 
 <!-- Linguagens -->
 <div align="center" display="flexbox">
