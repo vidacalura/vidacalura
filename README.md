@@ -1,6 +1,6 @@
 <!-- Div Most Used Languages -->
 <div align="center">
-  <a href="" target="_blank">
+  <a href="https://vidacalura.github.io/Site-vidacalura/" target="_blank">
     <img alt="vidacalura stats" height="180em" src="https://github-readme-stats-lmguedes007-gmailcom.vercel.app/api/top-langs/?username=vidacalura&layout=compact&langs_count=10&theme=github_dark"/>
   </a>
 </div>
