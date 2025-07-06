@@ -8,7 +8,7 @@
 <br> <br>
 
 <!-- Linguagens -->
-<div align="center" width="90vw" display="flexbox" gap="1rem">
+<div align="center" display="flexbox" gap="2rem">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="90rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="90rem" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90rem"/>        
